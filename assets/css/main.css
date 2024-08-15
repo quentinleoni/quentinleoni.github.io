@@ -2210,6 +2210,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.profile {
+			border-radius: 50%;
+		}
+
 			@media screen and (max-width: 736px) {
 
 				.image.main {
