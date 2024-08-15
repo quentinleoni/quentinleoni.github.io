@@ -2211,16 +2211,6 @@ input, select, textarea {
 			}
 
 					}
-		.profile img {
-			border-radius: 50%;
-    			width: 150px;
-    			height: 150px;
-    			float: right;
-    			margin-right: 10px; /* Optional: Add space to the right of the image */
-    			display: inline-block; /* Ensure it's treated as an inline element */
-    			max-width: 150px; /* Force the maximum width */
-    			max-height: 150px; /* Force the maximum height */
-		}
 
 			@media screen and (max-width: 736px) {
 
