@@ -2210,17 +2210,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.profile {
-			border-radius: 50%;
-		}
-
-			@media screen and (max-width: 736px) {
-
-				.image.main {
-					margin: 1.5em 0;
-				}
-
-			}
+					}
 		.profile img {
 			border-radius: 50%;
     			width: 150px;
@@ -2231,6 +2221,12 @@ input, select, textarea {
     			max-width: 150px; /* Force the maximum width */
     			max-height: 150px; /* Force the maximum height */
 		}
+
+			@media screen and (max-width: 736px) {
+
+				.image.main {
+					margin: 1.5em 0;
+				}
 
 /* List */
 
